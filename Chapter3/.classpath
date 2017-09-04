@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="WorkingWithDatesAndTimes"/>
+	<classpathentry kind="src" path="CreatingAndManipulatingStrings"/>
+	<classpathentry kind="src" path="UsingTheStringBuilderClass"/>
+	<classpathentry kind="src" path="UnderstandingEquality"/>
+	<classpathentry kind="src" path="UnderstandingJavaArrays"/>
+	<classpathentry kind="src" path="UnderstandingAnArrayList"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
