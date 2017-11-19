@@ -47,18 +47,18 @@ public class Switches {
 	    
 		switch(aSeason){
 		
-		case 0:
-			System.out.println(seasons.get(0));
-		case 1:
-			System.out.println(seasons.get(1));
-		default:
-			System.out.println(defaultSeason);
-		case 2:
-			System.out.println(seasons.get(2));
-			break;
-		case 3:
-			System.out.println(seasons.get(3));
-			break;
+			case 0:
+				System.out.println(seasons.get(0));
+			case 1:
+				System.out.println(seasons.get(1));
+			default:
+				System.out.println(defaultSeason);
+			case 2:
+				System.out.println(seasons.get(2));
+				break;
+			case 3:
+				System.out.println(seasons.get(3));
+				break;
 		}
 		
 	}
@@ -67,18 +67,18 @@ public class Switches {
 	    
 		switch(aSeason){
 		
-		case springConstant:
-			System.out.println(seasons.get(0));
-		case summerConstant:
-			System.out.println(seasons.get(1));
-		default:
-			System.out.println(defaultSeason);
-		case autumnConstant:
-			System.out.println(seasons.get(2));
-			break;
-		case winterConstant:
-			System.out.println(seasons.get(3));
-			break;
+			case springConstant:
+				System.out.println(seasons.get(0));
+			case summerConstant:
+				System.out.println(seasons.get(1));
+			default:
+				System.out.println(defaultSeason);
+			case autumnConstant:
+				System.out.println(seasons.get(2));
+				break;
+			case winterConstant:
+				System.out.println(seasons.get(3));
+				break;
 		}
 		
 	}
