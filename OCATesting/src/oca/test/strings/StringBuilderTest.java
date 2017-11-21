@@ -12,6 +12,10 @@ public class StringBuilderTest {
 //		if (s1 == "meow") System.out.println("three");
 		if(s1.toString() == "meow") System.out.println("four");
 		
+		StringBuilder s3 = new StringBuilder("Sussurance");
+		s3.replace(3,4,"hammer");
+		System.out.println(s3);
+		
 	}
 
 	

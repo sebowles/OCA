@@ -2,6 +2,7 @@ package oca.test.classdesign.methodoverriding;
 
 public class Car {
 	
+	
 	public int getSpeed(){
 		return 70;
 	}

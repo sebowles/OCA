@@ -11,9 +11,10 @@ public class SportsCar extends Car {
 	}
 	
 	public static void main(String[] args){
-		SportsCar maserati = new SportsCar();
+		Car maserati = new SportsCar();
+		System.out.println(maserati.getSpeed());
 		maserati.accelerate();
-		maserati.turboAccelerate();
+//		maserati.turboAccelerate();
 	}
 
 }
